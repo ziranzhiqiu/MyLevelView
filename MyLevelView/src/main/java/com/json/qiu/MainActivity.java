@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private int currentPos;
     private boolean isPressed = false;
-    private int[] icon = {R.drawable.star_0, R.drawable.star_1, R.drawable.star_2, R.drawable.star_3};
-    private int[] clickedIcon = {R.drawable.star_0_click, R.drawable.star_1_click, R.drawable.star_2_click, R.drawable.star_3_click};
+    private int[] icon = {R.mipmap.star_0, R.mipmap.star_1, R.mipmap.star_2, R.mipmap.star_3};
+    private int[] clickedIcon = {R.mipmap.star_0_click, R.mipmap.star_1_click, R.mipmap.star_2_click, R.mipmap.star_3_click};
     private String[] title = {"第一等级", "第二等级", "第三等级", "最高等级"};
 
     @Override

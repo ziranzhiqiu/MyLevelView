@@ -117,7 +117,7 @@ public class MyLevelView extends View {
     }
 
     /**
-     * Convert drawable to bitmap.
+     * Convert mipmap to bitmap.
      *
      * @param drawable
      * @return

@@ -28,7 +28,7 @@
         level:pointColor="#eeeeee"
         level:pointRadius="6dp"
         level:stepCount="3"
-        level:thumb="@drawable/star_1"
+        level:thumb="@mipmap/star_1"
         level:thumbHeight="30dp"
         level:thumbWidth="30dp" />
 </LinearLayout>
